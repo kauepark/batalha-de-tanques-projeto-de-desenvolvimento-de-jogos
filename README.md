@@ -1,1 +1,1 @@
-Este jogo eu desenvolvi como projeto da diciplina de Desenvolvimento de Jogos do curso técnico de Informática do IFPE Garanhuns.
+Este jogo eu desenvolvi como projeto da disciplina de Desenvolvimento de Jogos do curso técnico de Informática do IFPE Garanhuns.
